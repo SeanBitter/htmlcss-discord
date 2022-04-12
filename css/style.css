@@ -185,7 +185,6 @@ footer {
 
 .top-footer {
     display: flex;
-    min-height: 400px;
 }
 
 .larger-column {
@@ -208,6 +207,11 @@ footer {
     vertical-align: middle;
 }
 
+.fa-brands {
+    padding: 1em 1em 0 0;
+    color: white;
+}
+
 .column {
     min-width: 18%;
 }
@@ -222,7 +226,6 @@ footer {
     text-decoration: none;
     display: block;
     padding-top: 15px;
-    
 }
 
 .bottom-footer {
