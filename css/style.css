@@ -174,8 +174,7 @@ footer {
 .stars {
     background-image: url("../img/stars.svg");
     background-repeat: no-repeat;
-    background-position: center;
-    min-height: 50px;
+    background-position: center 15%;
 }
 
 .download-blue {
