@@ -11,11 +11,18 @@
     background-color: rgb(204, 186, 226);
     box-shadow: 0 0 10px rgb(44, 43, 43);
     color: black;
-
-
 }
 
 .register:hover {
     background-color: rgba(121, 119, 255, 0.833);
     color: black;
+}
+
+.wave-1hkxOo {
+    fill: #F6F6F6;
+    display: block;
+}
+
+.wave-flip {
+    transform: scaleY(-1);
 }
