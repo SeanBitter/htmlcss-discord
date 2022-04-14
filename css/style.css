@@ -228,6 +228,10 @@ footer {
     padding-top: 15px;
 }
 
+ul {
+    list-style: none;
+}
+
 .bottom-footer {
     padding-top: 25px;
     border-top: 1px solid #7781F0;
