@@ -26,5 +26,35 @@ header {
 
 .download-home {
     background-image:url("../img/download-home.svg");
-    background-size: contain;
+}
+
+.cards {
+    display: flex;
+    max-width: 1200px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 2em 1em;
+    flex-direction: column;
+}
+
+.sec {
+    display: flex;
+}
+
+.download {
+    background-color:#F6F6F6;
+    border-radius: 3%;
+    min-width: 50%;
+    min-height: 550px;
+    text-align: center;
+    display: flex;
+    margin: 1em;
+}
+
+.download h2 {
+    padding: 2em 0;
+}
+
+.download-ios {
+    background-image: url("../img/down-main-1.svg");
 }
