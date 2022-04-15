@@ -1,0 +1,30 @@
+header {
+    background-color: #23272A;
+    color: white;
+    line-height: 24px;
+}
+
+.title-download h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 100%;
+    padding-bottom: 0.6em;
+}
+
+.title-download p {
+    padding-bottom: 2.7em;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.title-download {
+    max-width: 40%;
+    padding-right: 1em;
+}
+
+.download-home {
+    background-image:url("../img/download-home.svg");
+    background-size: contain;
+}
